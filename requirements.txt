@@ -1,5 +1,4 @@
-pandas>=0.19
 streamlit
 Pillow
-keras
+tensorflow
 opencv-python
